@@ -1,0 +1,42 @@
+{
+  "lesson_id": "A1_L19",
+  "title": "Jobs — المهن",
+  "vocabulary": [
+    { "word": "Teacher", "translation": "معلم", "example": "My mother is a teacher." },
+    { "word": "Doctor", "translation": "طبيب", "example": "The doctor is kind." },
+    { "word": "Driver", "translation": "سائق", "example": "My father is a driver." },
+    { "word": "Engineer", "translation": "مهندس", "example": "He is an engineer." },
+    { "word": "Farmer", "translation": "مزارع", "example": "The farmer works hard." }
+  ],
+  "grammar": {
+    "title": "Using 'a' / 'an'",
+    "explanation": "An قبل الكلمات التي تبدأ بحرف صوتي.",
+    "examples": [
+      "a teacher",
+      "an engineer"
+    ]
+  },
+  "dialogue": {
+    "person1": "What is your job?",
+    "person2": "I am a driver."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "What does 'Engineer' mean?",
+        "options": ["سائق", "طبيب", "مهندس"],
+        "answer": "مهندس"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "She is ____ doctor. (a/an)",
+        "answer": "She is a doctor."
+      }
+    ],
+    "translate": [
+      { "question": "ترجم: مزارع", "answer": "Farmer" }
+    ]
+  },
+  "pronunciation_tip": "Engineer تُنطق (إنجِنير)."
+}

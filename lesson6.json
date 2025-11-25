@@ -1,0 +1,45 @@
+{
+  "lesson_id": "A1_L6",
+  "title": "Time — الوقت",
+  "vocabulary": [
+    { "word": "Morning", "translation": "صباح", "example": "I study in the morning." },
+    { "word": "Afternoon", "translation": "بعد الظهر", "example": "I work in the afternoon." },
+    { "word": "Evening", "translation": "مساء", "example": "I walk in the evening." },
+    { "word": "Night", "translation": "ليل", "example": "I sleep at night." },
+    { "word": "Today", "translation": "اليوم", "example": "I am busy today." }
+  ],
+  "grammar": {
+    "title": "Prepositions: in / at",
+    "explanation": "In للصباح/المساء — At للساعات.",
+    "examples": [
+      "in the morning",
+      "at 7 o'clock"
+    ]
+  },
+  "dialogue": {
+    "person1": "What time do you wake up?",
+    "person2": "I wake up at 7."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "Which one means 'ليل'?",
+        "options": ["Morning", "Night", "Evening"],
+        "answer": "Night"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "I sleep ____ night. (at / in)",
+        "answer": "I sleep at night."
+      }
+    ],
+    "translate": [
+      {
+        "question": "ترجم: اليوم",
+        "answer": "Today"
+      }
+    ]
+  },
+  "pronunciation_tip": "Night تنطق (نايت)."
+}

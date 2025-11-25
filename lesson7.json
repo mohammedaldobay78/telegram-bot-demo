@@ -1,0 +1,45 @@
+{
+  "lesson_id": "A1_L7",
+  "title": "Food — الطعام",
+  "vocabulary": [
+    { "word": "Bread", "translation": "خبز", "example": "I eat bread every day." },
+    { "word": "Rice", "translation": "رز", "example": "I like rice." },
+    { "word": "Chicken", "translation": "دجاج", "example": "Chicken is my favorite food." },
+    { "word": "Water", "translation": "ماء", "example": "I drink water." },
+    { "word": "Tea", "translation": "شاي", "example": "I drink tea in the evening." }
+  ],
+  "grammar": {
+    "title": "Like / Don't like",
+    "explanation": "للتعبير عن الإعجاب أو عدمه.",
+    "examples": [
+      "I like rice.",
+      "I don't like tea."
+    ]
+  },
+  "dialogue": {
+    "person1": "Do you like chicken?",
+    "person2": "Yes, I do!"
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "What does 'Bread' mean?",
+        "options": ["دجاج", "ماء", "خبز"],
+        "answer": "خبز"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "I don't like _____. (tea)",
+        "answer": "I don't like tea."
+      }
+    ],
+    "translate": [
+      {
+        "question": "ترجم: ماء",
+        "answer": "Water"
+      }
+    ]
+  },
+  "pronunciation_tip": "كلمة Rice تنطق (رايْس)."
+}

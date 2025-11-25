@@ -1,0 +1,42 @@
+{
+  "lesson_id": "A1_L17",
+  "title": "Furniture — الأثاث",
+  "vocabulary": [
+    { "word": "Table", "translation": "طاولة", "example": "The table is new." },
+    { "word": "Chair", "translation": "كرسي", "example": "The chair is old." },
+    { "word": "Bed", "translation": "سرير", "example": "The bed is comfortable." },
+    { "word": "Sofa", "translation": "أريكة", "example": "The sofa is soft." },
+    { "word": "Lamp", "translation": "مصباح", "example": "The lamp is bright." }
+  ],
+  "grammar": {
+    "title": "There is / There are",
+    "explanation": "للتعبير عن وجود شيء.",
+    "examples": [
+      "There is a table.",
+      "There are two chairs."
+    ]
+  },
+  "dialogue": {
+    "person1": "Is there a bed?",
+    "person2": "Yes, there is."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "Which means 'سرير'?",
+        "options": ["Bed", "Chair", "Sofa"],
+        "answer": "Bed"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "There ____ a lamp. (is)",
+        "answer": "There is a lamp."
+      }
+    ],
+    "translate": [
+      { "question": "ترجم: طاولة", "answer": "Table" }
+    ]
+  },
+  "pronunciation_tip": "Chair تُنطق (شير)."
+}

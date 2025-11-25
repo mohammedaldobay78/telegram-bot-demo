@@ -1,0 +1,39 @@
+{
+  "lesson_id": "A1_L12",
+  "title": "Weather — الطقس",
+  "vocabulary": [
+    { "word": "Sunny", "translation": "مشمس", "example": "It is sunny today." },
+    { "word": "Rainy", "translation": "ممطر", "example": "It is rainy outside." },
+    { "word": "Cloudy", "translation": "غائم", "example": "The sky is cloudy." },
+    { "word": "Windy", "translation": "عاصف", "example": "It is windy today." },
+    { "word": "Hot", "translation": "حار", "example": "It is very hot now." }
+  ],
+  "grammar": {
+    "title": "It is + adjective",
+    "explanation": "لتعبير عن حالة الطقس.",
+    "examples": ["It is sunny.", "It is rainy."]
+  },
+  "dialogue": {
+    "person1": "How is the weather today?",
+    "person2": "It is cloudy."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "Which means 'ممطر'?",
+        "options": ["Cloudy", "Rainy", "Sunny"],
+        "answer": "Rainy"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "It is ____ today. (sunny)",
+        "answer": "It is sunny today."
+      }
+    ],
+    "translate": [
+      { "question": "ترجم: حار", "answer": "Hot" }
+    ]
+  },
+  "pronunciation_tip": "Rainy تُنطق (ريني)."
+}

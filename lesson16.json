@@ -1,0 +1,39 @@
+{
+  "lesson_id": "A1_L16",
+  "title": "Clothes — الملابس",
+  "vocabulary": [
+    { "word": "Shirt", "translation": "قميص", "example": "I wear a blue shirt." },
+    { "word": "Pants", "translation": "بنطال", "example": "He wears black pants." },
+    { "word": "Shoes", "translation": "حذاء", "example": "Her shoes are white." },
+    { "word": "Jacket", "translation": "سترة", "example": "I need a warm jacket." },
+    { "word": "Hat", "translation": "قبعة", "example": "The hat is red." }
+  ],
+  "grammar": {
+    "title": "This / That",
+    "explanation": "This = شيء قريب — That = بعيد.",
+    "examples": ["This shirt is nice.", "That jacket is big."]
+  },
+  "dialogue": {
+    "person1": "Do you like this shirt?",
+    "person2": "Yes, it is nice."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "Which means 'قبعة'?",
+        "options": ["Shirt", "Hat", "Shoes"],
+        "answer": "Hat"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "I wear a blue _____. (shirt)",
+        "answer": "I wear a blue shirt."
+      }
+    ],
+    "translate": [
+      { "question": "ترجم: حذاء", "answer": "Shoes" }
+    ]
+  },
+  "pronunciation_tip": "Shirt تُنطق (شيرت)."
+}

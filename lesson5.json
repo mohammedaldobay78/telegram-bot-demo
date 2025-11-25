@@ -1,0 +1,45 @@
+{
+  "lesson_id": "A1_L5",
+  "title": "Numbers — الأرقام",
+  "vocabulary": [
+    { "word": "One", "translation": "1", "example": "One apple." },
+    { "word": "Two", "translation": "2", "example": "Two books." },
+    { "word": "Three", "translation": "3", "example": "Three cars." },
+    { "word": "Four", "translation": "4", "example": "Four pens." },
+    { "word": "Five", "translation": "5", "example": "Five students." }
+  ],
+  "grammar": {
+    "title": "Plurals",
+    "explanation": "نضيف S للجمع.",
+    "examples": [
+      "One car / two cars",
+      "One book / three books"
+    ]
+  },
+  "dialogue": {
+    "person1": "How many books do you have?",
+    "person2": "I have three books."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "What number is 'Three'?",
+        "options": ["2", "3", "5"],
+        "answer": "3"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "I have ____ apples. (five)",
+        "answer": "I have five apples."
+      }
+    ],
+    "translate": [
+      {
+        "question": "ترجم: Four cars",
+        "answer": "أربع سيارات"
+      }
+    ]
+  },
+  "pronunciation_tip": "كلمة Three تنطق بثاء حقيقية (ثري)."
+}

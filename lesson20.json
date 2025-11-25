@@ -1,0 +1,42 @@
+{
+  "lesson_id": "A1_L20",
+  "title": "Hobbies — الهوايات",
+  "vocabulary": [
+    { "word": "Reading", "translation": "القراءة", "example": "I like reading." },
+    { "word": "Swimming", "translation": "السباحة", "example": "I enjoy swimming." },
+    { "word": "Drawing", "translation": "الرسم", "example": "She loves drawing." },
+    { "word": "Cooking", "translation": "الطبخ", "example": "Cooking is fun." },
+    { "word": "Traveling", "translation": "السفر", "example": "He likes traveling." }
+  ],
+  "grammar": {
+    "title": "Like + verb-ing",
+    "explanation": "نستخدم verb+ing بعد Like.",
+    "examples": [
+      "I like reading.",
+      "They like cooking."
+    ]
+  },
+  "dialogue": {
+    "person1": "What is your hobby?",
+    "person2": "I like drawing."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "Which means 'السباحة'?",
+        "options": ["Swimming", "Reading", "Cooking"],
+        "answer": "Swimming"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "I like _____. (travel)",
+        "answer": "I like traveling."
+      }
+    ],
+    "translate": [
+      { "question": "ترجم: الرسم", "answer": "Drawing" }
+    ]
+  },
+  "pronunciation_tip": "Drawing تُنطق (درُوينج)."
+}

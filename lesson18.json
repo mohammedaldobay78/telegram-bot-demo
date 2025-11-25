@@ -1,0 +1,42 @@
+{
+  "lesson_id": "A1_L18",
+  "title": "Feelings — المشاعر",
+  "vocabulary": [
+    { "word": "Happy", "translation": "سعيد", "example": "I am happy today." },
+    { "word": "Sad", "translation": "حزين", "example": "She is sad." },
+    { "word": "Tired", "translation": "متعب", "example": "He is tired after work." },
+    { "word": "Angry", "translation": "غاضب", "example": "They are angry." },
+    { "word": "Excited", "translation": "متحمس", "example": "The kids are excited." }
+  ],
+  "grammar": {
+    "title": "Be + adjective",
+    "explanation": "I am / You are / He is + صفة.",
+    "examples": [
+      "I am happy.",
+      "He is tired."
+    ]
+  },
+  "dialogue": {
+    "person1": "How are you?",
+    "person2": "I am tired."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "Which means 'غاضب'?",
+        "options": ["Excited", "Angry", "Sad"],
+        "answer": "Angry"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "I am _____. (happy)",
+        "answer": "I am happy."
+      }
+    ],
+    "translate": [
+      { "question": "ترجم: متعب", "answer": "Tired" }
+    ]
+  },
+  "pronunciation_tip": "Tired تُنطق (تايَرد)."
+}

@@ -1,0 +1,39 @@
+{
+  "lesson_id": "A1_L14",
+  "title": "Daily Activities — الأنشطة اليومية",
+  "vocabulary": [
+    { "word": "Cook", "translation": "يطبخ", "example": "I cook dinner every day." },
+    { "word": "Clean", "translation": "ينظف", "example": "I clean my room." },
+    { "word": "Study", "translation": "يدرس", "example": "I study English at night." },
+    { "word": "Work", "translation": "يعمل", "example": "He works in a bank." },
+    { "word": "Play", "translation": "يلعب", "example": "The kids play outside." }
+  ],
+  "grammar": {
+    "title": "Present Simple for routines",
+    "explanation": "نستخدم المضارع للعادات اليومية.",
+    "examples": ["I study every day.", "She works at a school."]
+  },
+  "dialogue": {
+    "person1": "What do you do every evening?",
+    "person2": "I study English."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "What does 'Cook' mean?",
+        "options": ["يلعب", "يطبخ", "يعمل"],
+        "answer": "يطبخ"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "I ____ my room. (clean)",
+        "answer": "I clean my room."
+      }
+    ],
+    "translate": [
+      { "question": "ترجم: يعمل", "answer": "Work" }
+    ]
+  },
+  "pronunciation_tip": "Cook تُنطق (كُك) وليس (كوك)."
+}

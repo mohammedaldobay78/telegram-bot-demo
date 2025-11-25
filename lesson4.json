@@ -1,0 +1,45 @@
+{
+  "lesson_id": "A1_L4",
+  "title": "Family — العائلة",
+  "vocabulary": [
+    { "word": "Father", "translation": "أب", "example": "My father is a teacher." },
+    { "word": "Mother", "translation": "أم", "example": "My mother is kind." },
+    { "word": "Brother", "translation": "أخ", "example": "I have one brother." },
+    { "word": "Sister", "translation": "أخت", "example": "My sister is funny." },
+    { "word": "Family", "translation": "عائلة", "example": "I love my family." }
+  ],
+  "grammar": {
+    "title": "Possessive 'My'",
+    "explanation": "نستخدم My مع الأشياء التي نملكها.",
+    "examples": [
+      "My father.",
+      "My sister."
+    ]
+  },
+  "dialogue": {
+    "person1": "Who is he?",
+    "person2": "He is my brother."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "What does 'Mother' mean?",
+        "options": ["أم", "أخت", "أب"],
+        "answer": "أم"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "She is my _____. (sister)",
+        "answer": "She is my sister."
+      }
+    ],
+    "translate": [
+      {
+        "question": "ترجم: I love my family",
+        "answer": "أنا أحب عائلتي"
+      }
+    ]
+  },
+  "pronunciation_tip": "كلمة Father تُنطق (فاذَر) وليس (فاتَر)."
+}

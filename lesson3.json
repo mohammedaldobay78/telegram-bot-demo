@@ -1,0 +1,45 @@
+{
+  "lesson_id": "A1_L3",
+  "title": "Colors — الألوان",
+  "vocabulary": [
+    { "word": "Red", "translation": "أحمر", "example": "The apple is red." },
+    { "word": "Blue", "translation": "أزرق", "example": "The sky is blue." },
+    { "word": "Green", "translation": "أخضر", "example": "The grass is green." },
+    { "word": "Black", "translation": "أسود", "example": "The car is black." },
+    { "word": "White", "translation": "أبيض", "example": "The paper is white." }
+  ],
+  "grammar": {
+    "title": "Using colors with nouns",
+    "explanation": "اللون يأتي بعد الشيء في الإنجليزية.",
+    "examples": [
+      "A red apple.",
+      "A blue car."
+    ]
+  },
+  "dialogue": {
+    "person1": "What is your favorite color?",
+    "person2": "My favorite color is blue."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "What color is the sky?",
+        "options": ["Red", "Blue", "Black"],
+        "answer": "Blue"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "The car is _____. (black)",
+        "answer": "The car is black."
+      }
+    ],
+    "translate": [
+      {
+        "question": "ترجم: اللون الأحمر",
+        "answer": "Red"
+      }
+    ]
+  },
+  "pronunciation_tip": "كلمة Blue تُنطق (بلوو) مع مد بسيط."
+}

@@ -1,0 +1,45 @@
+{
+  "lesson_id": "A1_L9",
+  "title": "Daily Verbs — أفعال يومية",
+  "vocabulary": [
+    { "word": "Eat", "translation": "يأكل", "example": "I eat breakfast at 8." },
+    { "word": "Drink", "translation": "يشرب", "example": "I drink coffee." },
+    { "word": "Sleep", "translation": "ينام", "example": "I sleep at 11." },
+    { "word": "Walk", "translation": "يمشي", "example": "I walk to school." },
+    { "word": "Read", "translation": "يقرأ", "example": "I read a book." }
+  ],
+  "grammar": {
+    "title": "Present Simple",
+    "explanation": "الفعل في المضارع البسيط للروتين اليومي.",
+    "examples": [
+      "I eat.",
+      "She eats."
+    ]
+  },
+  "dialogue": {
+    "person1": "What do you do every morning?",
+    "person2": "I eat breakfast."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "What does 'Sleep' mean?",
+        "options": ["يقرأ", "ينام", "يشرب"],
+        "answer": "ينام"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "I ____ water. (drink)",
+        "answer": "I drink water."
+      }
+    ],
+    "translate": [
+      {
+        "question": "ترجم: يقرأ",
+        "answer": "Read"
+      }
+    ]
+  },
+  "pronunciation_tip": "Sleep تُنطق (سليب)."
+}

@@ -1,0 +1,45 @@
+{
+  "lesson_id": "A1_L10",
+  "title": "Describing Objects — وصف الأشياء",
+  "vocabulary": [
+    { "word": "Big", "translation": "كبير", "example": "This house is big." },
+    { "word": "Small", "translation": "صغير", "example": "The cat is small." },
+    { "word": "Long", "translation": "طويل", "example": "The table is long." },
+    { "word": "Short", "translation": "قصير", "example": "The pen is short." },
+    { "word": "Heavy", "translation": "ثقيل", "example": "This box is heavy." }
+  ],
+  "grammar": {
+    "title": "Adjectives",
+    "explanation": "الصفات تأتي قبل الاسم في الإنجليزية.",
+    "examples": [
+      "A big house.",
+      "A small cat."
+    ]
+  },
+  "dialogue": {
+    "person1": "Is the bag heavy?",
+    "person2": "Yes, it is very heavy!"
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "Which means 'صغير'?",
+        "options": ["Small", "Big", "Long"],
+        "answer": "Small"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "The table is _____. (long)",
+        "answer": "The table is long."
+      }
+    ],
+    "translate": [
+      {
+        "question": "ترجم: ثقيل",
+        "answer": "Heavy"
+      }
+    ]
+  },
+  "pronunciation_tip": "Heavy تُنطق (هِيڤي)."
+}

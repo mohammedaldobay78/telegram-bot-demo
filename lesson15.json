@@ -1,0 +1,39 @@
+{
+  "lesson_id": "A1_L15",
+  "title": "Animals — الحيوانات",
+  "vocabulary": [
+    { "word": "Dog", "translation": "كلب", "example": "The dog is friendly." },
+    { "word": "Cat", "translation": "قطة", "example": "The cat is small." },
+    { "word": "Bird", "translation": "عصفور", "example": "The bird is singing." },
+    { "word": "Cow", "translation": "بقرة", "example": "The cow is big." },
+    { "word": "Horse", "translation": "حصان", "example": "The horse runs fast." }
+  ],
+  "grammar": {
+    "title": "Using 'The' with animals",
+    "explanation": "نستخدم The لوصف شيء محدد.",
+    "examples": ["The cat is hungry.", "The dog is big."]
+  },
+  "dialogue": {
+    "person1": "Do you have a pet?",
+    "person2": "Yes, I have a cat."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "Which animal means 'حصان'?",
+        "options": ["Cat", "Horse", "Bird"],
+        "answer": "Horse"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "The ____ is small. (cat)",
+        "answer": "The cat is small."
+      }
+    ],
+    "translate": [
+      { "question": "ترجم: بقرة", "answer": "Cow" }
+    ]
+  },
+  "pronunciation_tip": "Horse تُنطق (هورس)."
+}

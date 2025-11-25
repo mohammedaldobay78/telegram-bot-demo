@@ -1,0 +1,45 @@
+{
+  "lesson_id": "A1_L8",
+  "title": "Places — الأماكن",
+  "vocabulary": [
+    { "word": "School", "translation": "مدرسة", "example": "I go to school." },
+    { "word": "Home", "translation": "منزل", "example": "I am at home now." },
+    { "word": "Park", "translation": "منتزه", "example": "We play in the park." },
+    { "word": "Store", "translation": "متجر", "example": "I buy milk from the store." },
+    { "word": "Hospital", "translation": "مستشفى", "example": "She works at the hospital." }
+  ],
+  "grammar": {
+    "title": "Go to / Be at",
+    "explanation": "Go to = الذهاب لمكان — Be at = التواجد في مكان.",
+    "examples": [
+      "I go to school.",
+      "I am at home."
+    ]
+  },
+  "dialogue": {
+    "person1": "Where are you?",
+    "person2": "I am at the store."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "Which means 'منزل'?",
+        "options": ["Home", "Park", "School"],
+        "answer": "Home"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "I go to ____ every day. (school)",
+        "answer": "I go to school every day."
+      }
+    ],
+    "translate": [
+      {
+        "question": "ترجم: المستشفى",
+        "answer": "Hospital"
+      }
+    ]
+  },
+  "pronunciation_tip": "Hospital تُنطق (هاسبِتَل)."
+}

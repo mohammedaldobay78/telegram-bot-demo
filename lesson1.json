@@ -1,0 +1,48 @@
+{
+  "lesson_id": "A1_L1",
+  "title": "Introductions — التعارف",
+  "vocabulary": [
+    { "word": "Hello", "translation": "مرحباً", "example": "Hello, my name is Adam." },
+    { "word": "Hi", "translation": "أهلاً", "example": "Hi! How are you?" },
+    { "word": "Name", "translation": "اسم", "example": "What is your name?" },
+    { "word": "I am", "translation": "أنا", "example": "I am Sara." },
+    { "word": "Nice to meet you", "translation": "سعيد بلقائك", "example": "Nice to meet you, Ali." },
+    { "word": "Good morning", "translation": "صباح الخير", "example": "Good morning, everyone." },
+    { "word": "Good evening", "translation": "مساء الخير", "example": "Good evening, sir." }
+  ],
+  "grammar": {
+    "title": "Using 'I am'",
+    "explanation": "نستخدم I am للتعريف بالنفس.",
+    "examples": [
+      "I am Ahmed.",
+      "I am a student."
+    ]
+  },
+  "dialogue": {
+    "person1": "Hello! What is your name?",
+    "person2": "My name is Lina. Nice to meet you!",
+    "person1": "Nice to meet you too!"
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "What does 'Hello' mean?",
+        "options": ["مع السلامة", "مرحباً", "شكراً"],
+        "answer": "مرحباً"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "______ Ahmed. (I am)",
+        "answer": "I am Ahmed."
+      }
+    ],
+    "translate": [
+      {
+        "question": "ترجم: سعيد بلقائك",
+        "answer": "Nice to meet you"
+      }
+    ]
+  },
+  "pronunciation_tip": "كلمة Hello تُنطق (هَلّو) بدون مد طويل."
+}

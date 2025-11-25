@@ -1,0 +1,46 @@
+{
+  "lesson_id": "A1_L2",
+  "title": "Daily Greetings — التحيات اليومية",
+  "vocabulary": [
+    { "word": "Good night", "translation": "تصبح على خير", "example": "Good night, see you tomorrow." },
+    { "word": "See you", "translation": "أراك لاحقاً", "example": "See you later!" },
+    { "word": "Goodbye", "translation": "وداعاً", "example": "Goodbye, my friend." },
+    { "word": "Thank you", "translation": "شكراً لك", "example": "Thank you for your help." },
+    { "word": "You're welcome", "translation": "على الرحب والسعة", "example": "You're welcome!" }
+  ],
+  "grammar": {
+    "title": "Adding 'Very'",
+    "explanation": "نستخدم very لتقوية المعنى.",
+    "examples": [
+      "Thank you very much.",
+      "I am very happy."
+    ]
+  },
+  "dialogue": {
+    "person1": "Good morning! How are you?",
+    "person2": "I’m fine, thank you. And you?",
+    "person1": "I'm good! See you later."
+  },
+  "exercises": {
+    "multiple_choice": [
+      {
+        "question": "What does 'Goodbye' mean?",
+        "options": ["مرحباً", "وداعاً", "شكراً"],
+        "answer": "وداعاً"
+      }
+    ],
+    "fill_blank": [
+      {
+        "question": "______ very much. (Thank you)",
+        "answer": "Thank you very much."
+      }
+    ],
+    "translate": [
+      {
+        "question": "ترجم: أراك لاحقاً",
+        "answer": "See you later"
+      }
+    ]
+  },
+  "pronunciation_tip": "كلمة ‘Thank’ تُنطق بلسان بين الأسنان (ث)."
+}
